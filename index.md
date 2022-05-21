@@ -9,21 +9,22 @@ Tuesdays 4:30-6 pm at Gates 104
 
 - [Jure’s CS 224m](https://web.stanford.edu/class/cs224w/index.html#schedule) (Lecture 6 onwards)
 - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/), book by Will Hamilton
-- https://distill.pub/2021/gnn-intro/
-- https://distill.pub/2021/understanding-gnns/
+- GNN Intro Blog Posts
+  - <https://distill.pub/2021/gnn-intro/>
+  - <https://distill.pub/2021/understanding-gnns/>
 - [Moses’s repository of survey papers](https://www.dropbox.com/sh/61cpaowg8ityuin/AAAlpRRkbbRp7sy0-0hq9XMWa?dl=0)
 
 ## Schedule
 
 - 4/5/2022: Tutorial on GNN and expressive power
   - Presenter: Weihua Hu
-  - Slides: https://drive.google.com/file/d/1UtYBc-8e85Id9PAoahzXEgjuv9Zr11QJ/view?usp=sharing 
+  - [Slides](https://drive.google.com/file/d/1UtYBc-8e85Id9PAoahzXEgjuv9Zr11QJ/view?usp=sharing)
   - Related papers:
     - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
 
 - 4/12/2022: Discussion on expressive power of GNN
   - Presenter: Qian
-  - Slides: https://docs.google.com/presentation/d/1A19TdVsAh6KwwokOObkovVUFW4Cykyb7P4cm0Taj8Lk/edit?usp=sharing 
+  - [Slides](https://docs.google.com/presentation/d/1A19TdVsAh6KwwokOObkovVUFW4Cykyb7P4cm0Taj8Lk/edit?usp=sharing)
   - Related papers:
     - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) (last week Weihua’s presentation)
     - [What Can Neural Networks Reason About](https://arxiv.org/abs/1905.13211)
@@ -47,7 +48,7 @@ Tuesdays 4:30-6 pm at Gates 104
  
 - 5/11: Auto-scaling GNNs & PyG 2.0
   - Presenter: [Matthias Fey](https://rusty1s.github.io/#/)
-  - Slides: https://drive.google.com/file/d/1J5Zxd1LhDKVX0VtMU1y21GZ-48FI8Z9i/view?usp=sharing 
+  - [Slides](https://drive.google.com/file/d/1J5Zxd1LhDKVX0VtMU1y21GZ-48FI8Z9i/view?usp=sharing)
 
 - 5/24: GNN Embedding
   -  Presenter: [Rex Ying](https://cs.stanford.edu/people/rexy/)
@@ -68,8 +69,8 @@ Tuesdays 4:30-6 pm at Gates 104
  - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) 
 
 - Geometric Deep Learning, Invariant/equivariant Graph Networks
-  - https://www.youtube.com/watch?v=7pRIjJ_u2_c 
-  - https://www.dropbox.com/sh/u9o69w4rm0uvmzi/AADLGwfdcY94HVsz2eSoCAFPa/invariant%20graph%20networks?dl=0&subfolder_nav_tracking=1  
+  - <https://www.youtube.com/watch?v=7pRIjJ_u2_c>
+  - <https://www.dropbox.com/sh/u9o69w4rm0uvmzi/AADLGwfdcY94HVsz2eSoCAFPa/invariant%20graph%20networks?dl=0&subfolder_nav_tracking=1> 
   - [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844)
 
 - Simplification 
@@ -77,7 +78,7 @@ Tuesdays 4:30-6 pm at Gates 104
   - [Combining Label Propagation and Simple Models Out-performs Graph Neural Networks](https://arxiv.org/abs/2010.13993)
 
 - Hypergraphs
-  - https://www.dropbox.com/sh/u9o69w4rm0uvmzi/AADtWutKnbOw0NuxPRpYOwlla/hypergraphs?dl=0&subfolder_nav_tracking=1 
+  - <https://www.dropbox.com/sh/u9o69w4rm0uvmzi/AADtWutKnbOw0NuxPRpYOwlla/hypergraphs?dl=0&subfolder_nav_tracking=1>
  
 - Others 
   - [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287)
