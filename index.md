@@ -1,4 +1,4 @@
-# Graph ML/GNN Reading Group 
+<!-- # Graph ML/GNN Reading Group  -->
 
 
 ## Meeting time and location 
