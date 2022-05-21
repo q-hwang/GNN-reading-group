@@ -2,7 +2,7 @@
 
 
 ## Meeting time and location 
-Tuesdays 4:30-6 pm at Gates 104
+Tuesdays 4:30-6 pm at Gates 415
 
 
 ## Introductory Material
