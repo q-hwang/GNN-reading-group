@@ -2,7 +2,7 @@
 
 
 ## Meeting Time and Location 
-Tuesdays 4:30-6 pm at Gates 415
+Tuesdays 4:30- 6pm at Stanford Gates 415
 
 
 ## Introductory Material
@@ -84,6 +84,13 @@ Tuesdays 4:30-6 pm at Gates 415
   - [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287)
   - Applications on knowledge graph, drug discovery etc
  
+## Organizers and Participants
+ - Moses Charikar <moses@cs.stanford.edu>
+ - Amin Saberi <saberi@stanford.edu>
+ - Jure Leskovec <jure@cs.stanford.edu>
+ - Qian Huang <qhwang@cs.stanford.edu>
+ - [Participants](https://docs.google.com/document/d/17nf-aUpaMCghkWTLBmaiZW1nmOKrxwqRIsDJO_h3658/edit?pli=1#)
+
  
  
  
