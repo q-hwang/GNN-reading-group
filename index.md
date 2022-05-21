@@ -1,7 +1,7 @@
 <!-- # Graph ML/GNN Reading Group  -->
 
 
-## Meeting time and location 
+## Meeting Time and Location 
 Tuesdays 4:30-6 pm at Gates 415
 
 
